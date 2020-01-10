@@ -19,3 +19,4 @@ Spring Boot 使用的各种示例，以最简单、最实用为标准，此开�
 
 - [spring-boot-file-upload](https://github.com/supercai0125/SpringBoogDemo/tree/master/spring-boot-file-uplaod)：Spring Boot 2.0  文件上传
 - [spring-boot-docker](https://github.com/supercai0125/SpringBoogDemo/tree/master/spring-boot-docker)：Spring Boot 2.0  docker部署SpringBoot
+- [dockercompose-springboot-mysql-nginx](https://github.com/supercai0125/SpringBoogDemo/tree/master/dockercompose-springboot-mysql-nginx)：Spring Boot 2.0  Docker Compose + Spring Boot + Nginx + Mysql 实践
